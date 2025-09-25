@@ -1,0 +1,5 @@
+{
+  "name": "GraphMind Weaver",
+  "description": "An intelligent knowledge graph generator and interactive visualizer. Input a topic to search the web or provide your own text to generate a structured, explorable mind map of key entities and their relationships, powered by Gemini.",
+  "requestFramePermissions": []
+}

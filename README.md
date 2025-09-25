@@ -4,6 +4,9 @@
 
 GraphMind Weaver is a web-based tool designed for researchers, students, and curious minds to transform unstructured information into beautiful, interactive knowledge graphs. Whether you're exploring a new topic, analyzing documents, or organizing your notes, this application helps you see the connections and understand the bigger picture.
 
+<img width="1126" height="511" alt="GraphMind_Screenshot" src="https://github.com/user-attachments/assets/be0ac154-c3e7-420b-8620-0549051747b9" />
+
+
 ## ✨ Features
 
 -   **Dual-Mode Generation**:
